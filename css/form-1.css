@@ -1,0 +1,117 @@
+body
+{
+    
+    padding: 0px;
+    margin: 0px;
+    font-size: 1rem;
+    font-family: cursive;
+}
+.mango
+{
+    width: 100%;
+    min-height: 250px;
+    height: auto;
+    background-color: blueviolet;
+}
+.mango-wraper
+{
+    width: 1170px;
+    margin: 0px auto;
+}
+.mango-wraper h1
+{
+    color: aliceblue;
+    text-align: center;
+    padding: 15px 0px;
+    letter-spacing: 1px;
+    margin: 0px 0px;
+}
+.box-1
+{
+    width: 234px;
+    float: left;
+    margin: 6px 0px;
+}
+.box-1 input
+{
+    width: 210px;
+    float: left;
+    padding: 5px 0px 5px 4px;
+    margin: 0px 10px;
+    text-align: center;
+}
+.submit
+{
+width: 234px;
+float: left;
+margin: 6px 0px;
+}
+.submit input
+{
+    width: 150px;
+    float: left;
+    padding: 7px 0px 7px 4px;
+    margin: 0px 10px;
+    text-align: center;
+    background-color: yellowgreen;
+    color: cornsilk;
+    border: none;
+}
+.city select
+{
+    width: 217px;
+    float: left;
+    padding: 7px 0px 7px 3px;
+    margin: 4px 9px;
+}
+
+.city select option
+{
+    width: 210px;
+    float: left;
+    padding: 7px 0px 7px 4px;
+    margin: 15px 18px;
+    text-align: center;
+}
+
+/* Form 2nd */
+
+.form-2
+{
+    width: 450px;
+    float: left;
+    min-height: 450px;
+    height: auto;
+    background-color: brown;
+    margin: 20px 10px;
+    border-radius: 5px;
+}
+
+.form-2 h1
+{
+    color: aliceblue;
+    padding: 10px 5px;
+    margin: 0px 0px;   
+    float: left;
+    font-family:cursive;
+}
+.name
+{
+    width: 100%;
+    float: left;
+}
+.name label
+{
+    color: #fff;
+    float: left;
+    font-size: 15px;
+    font-family: arial;
+    padding: 2px 5px;
+}
+.name input
+{
+    width: 100%;
+    padding: 3px 2px;
+    margin: 0px 4px;
+    float: left;
+}
